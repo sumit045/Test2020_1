@@ -10,7 +10,7 @@ public class jobSchedular {
 	public void test()
 	{
 		System.out.println("Testing");
-		String path = "C:\\Users\\SumitKumar\\Documents\\Anith\\Test2020_A_4\\Drivers\\geckodriver.exe";
+		String path = "C:/Users/SumitKumar/Documents/Anith/Test2020_A_4/Drivers/geckodriver.exe";
 		System.setProperty("webdriver.gecko.driver", path);
 		
 		WebDriver driver = new FirefoxDriver();
