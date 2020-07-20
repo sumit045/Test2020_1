@@ -14,6 +14,9 @@ public class jobSchedular {
 		System.setProperty("webdriver.gecko.driver", path);
 		
 		WebDriver driver = new FirefoxDriver();
+		driver.get("https://www.google.com/");
+		String d = driver.getTitle().toString().trim();
+		System.out.println(d);
 	}
 	
 }

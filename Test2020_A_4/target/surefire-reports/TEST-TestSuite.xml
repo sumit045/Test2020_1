@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="12.596" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="24.635" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\SumitKumar\Documents\Anith\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf203426237430848995.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\SumitKumar\Documents\Anith\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4593300813905711172.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_201/bin/server;C:/Program Files/Java/jre1.8.0_201/bin;C:/Program Files/Java/jre1.8.0_201/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\SumitKumar\Maven\apache-maven-3.5.4\bin;C:\WINDOWS\System32\OpenSSH\;C:\Users\SumitKumar\Desktop\axis2-1.6.2\axis2-1.6.2\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\nodejs\;C:\Program Files\CrashPlan\jre\bin\server\;C:\Program Files\CrashPlan\jre\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\Users\SumitKumar\oc;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\SumitKumar\eclipse-workspace\Sumit_Workspace\Project001\src\package001;C:\Program Files\Java\jdk1.8.0_171\bin;;C:\Users\SumitKumar\AppData\Local\Microsoft\WindowsApps;C:\Users\SumitKumar\AppData\Roaming\npm;C:\Users\SumitKumar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SumitKumar\AppData\Local\Box\Box Edit\;C:\Users\SumitKumar\Desktop;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test" classname="Test2020_4.Test2020_A_4.jobSchedular" time="12.596"/>
+  <testcase name="test" classname="Test2020_4.Test2020_A_4.jobSchedular" time="24.635"/>
 </testsuite>
